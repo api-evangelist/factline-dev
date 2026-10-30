@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-factline-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://factline.dev/
+Factline provides a unified API for financial teams and AI agents to verify suppliers and payees against official records. It offers KYB, invoice validation, IBAN, VAT, sanctions, and PEP checks in a single call, enabling compliance and risk management. Pricing starts from $0.001 per check, with a free trial available. The service aims to streamline due diligence and reduce fraud in payments.
+
+**Areas:** Company · Finance · Compliance · KYB · API
+
+## factline-dev on APIs.io
+
+Everything profiled for factline-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/factline-dev/](https://apis.io/providers/factline-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [factline-dev Free API](https://apis.io/apis/factline-dev/factline-dev-free-api/) — The Free API from factline-dev — 52 operation(s) for free.
+- [factline-dev Paid (x402) API](https://apis.io/apis/factline-dev/factline-dev-paid-x402-api/) — The Paid (x402) API from factline-dev — 43 operation(s) for paid (x402).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Factline Dev Agentic Access](https://apis.io/agentic-access/factline-dev/factline-dev-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Factline Dev Context](https://apis.io/jsonld/factline-dev/factline-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [factline-dev API Rules](https://apis.io/rules/factline-dev/factline-dev-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Factline Dev Authentication](https://apis.io/security/factline-dev/factline-dev-authentication/)
+- [Factline Dev Domain Security](https://apis.io/security/factline-dev/factline-dev-domain-security/)
+- [Factline Dev Vulnerability Disclosure](https://apis.io/security/factline-dev/factline-dev-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://factline.dev/)
+- [Documentation](https://factline.dev/docs)
+- [Getting started](https://factline.dev/business#trial)
+- [API reference](https://factline.dev/docs)
+- [Pricing](https://factline.dev/#prices)
+- [Sign up](https://factline.dev/registerplicht-makelaars)
+- [Security](https://factline.dev/trust)
+- [Trust centre](https://factline.dev/trust)
+- [Terms of service](https://factline.dev/terms)
+- [Privacy policy](https://factline.dev/privacy)
+- [Status](https://factline.dev/status)
+
+## API Evangelist rating
+
+**Kin Score 54.5** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 52.6 |
+
+**Agent readiness 36.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/factline-dev/](https://apis.io/providers/factline-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for factline-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/factline-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
